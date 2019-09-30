@@ -29,8 +29,6 @@ public class JavaStringIntroduction {
         }
         
         String s = A.concat(" ").concat(B);
-        // s = Array.getInt(s, "");
-        // int[] a = s.indexOf(" ");
         System.out.println(s);
     }
 }
